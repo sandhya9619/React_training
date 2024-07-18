@@ -1,0 +1,11 @@
+localstorage : is a one kind of data base wich is awailable in browser.
+
+we can store data in key and value formate
+
+if we want to store data in localstorage we can use below method 
+
+localstorage.setitem("key", value)
+
+if we ant to retrive data from localstorage we can use below method 
+
+localstorage.getitem("key")

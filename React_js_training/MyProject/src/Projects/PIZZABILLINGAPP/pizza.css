@@ -1,0 +1,37 @@
+.color{
+    background: url(../Projects/image/pizza05.jpg) no-repeat center center/cover;
+
+    box-sizing: border-box;
+}
+.offer{
+
+}
+.offermanu{
+    width: 450px;
+    text-align: left;
+    /* margin-right: 20px; */
+    margin-left: 50px;
+    /* border: 2px solid green; */
+
+}
+.menubox{
+    margin-left: -40px;
+    border: 2px solid green;
+    background-color: pink;
+    width: 600px;
+    height: 400px;
+}
+.billdetail{
+    border: 1px solid black;
+    width: 470px;
+    background-color: cadetblue;
+    padding: 20px;
+    height: 410px;
+    margin-top: 10px;
+}
+.mainpage{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-around;
+    height: 470px;
+}
